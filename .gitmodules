@@ -1,0 +1,3 @@
+[submodule "module_2"]
+	path = module_2
+	url = git@github.com:amass0830/FrontEnd_Bootcamp_CADERH_module_2.git
