@@ -1,3 +1,6 @@
 [submodule "module_2"]
 	path = module_2
 	url = git@github.com:amass0830/FrontEnd_Bootcamp_CADERH_module_2.git
+[submodule "module_3"]
+	path = module_3
+	url = git@github.com:amass0830/FrontEnd_Bootcamp_CADERH_module_3.git
